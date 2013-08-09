@@ -3,7 +3,6 @@
     :method: :get
     :url: /tts/json
     :required:
-    - from
     - to
     - text
   :send_binary:
