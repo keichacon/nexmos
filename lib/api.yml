@@ -1,7 +1,7 @@
 :message:
   :send_text:
     :method: :get
-    :url: /sms/json
+    :url: /tts/json
     :required:
     - from
     - to
